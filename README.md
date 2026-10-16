@@ -1,0 +1,2 @@
+# hackclub-repository
+for school

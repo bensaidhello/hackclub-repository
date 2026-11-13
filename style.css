@@ -3,6 +3,9 @@ img {
     border: 5px solid red;
     border-radius: 20px;
 }
+h1 {
+    color:orange;
+}
 body {
     text-align: center;
     font-family: sans-serif;
